@@ -1,4 +1,4 @@
-# Modular-C-
+# Modular-C++
 
 ## Instructions for Linux
 
