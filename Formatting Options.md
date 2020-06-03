@@ -1,5 +1,7 @@
 # Format Options
 
+Markdown syntax.
+
 ## Headers
 
   \# H1
